@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\Program208.exe
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\Program208.deps.json
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\Program208.runtimeconfig.json
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\Program208.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\Program208.dll
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\ref\Program208.dll
+C:\Users\andre\source\repos\Program208\bin\Debug\net5.0\Program208.pdb
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.AssemblyInfo.cs
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.dll
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\ref\Program208.dll
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.pdb
+C:\Users\andre\source\repos\Program208\obj\Debug\net5.0\Program208.genruntimeconfig.cache
